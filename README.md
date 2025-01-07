@@ -5,16 +5,14 @@ Welcome to my Cloud Internship Portfolio at Brainwave_Matrix_Solutions ! This re
 Offer letter : Madhu Kalamata.pdf
 Task_1 :
 Deploy a web application in AWS:
-Description :
-
 
 Task_2 :
-Description :
+E-commerce site or any static website with cloud storage
 
 Thank you for visiting my portfolio & reviewing my submission!
 
 Contact Information :
 For any inquiries or feedback regarding this project, please contact:
 
-LinkedIn: https://www.linkedin.com/in/
+LinkedIn: https://www.linkedin.com/in/madhu-kalamata/
 Email: madhukalamata000@gmail.com
